@@ -11,6 +11,10 @@
     <itunes:summary>POrdy 1st LP – Unreleased archive. For non-commercial distribution only.</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+         <itunes:name>POrdy</itunes:name>
+         <itunes:email>pordinary97@gmail.com</itunes:email>
+    </itunes:owner>
     <itunes:category text="Music" />
     <itunes:image href="https://raw.githubusercontent.com/POrdinary-Archive/POrdinary-Archive/main/cover.jpg" />
 
