@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>POrdinary Archive</title>
+    <link>https://pordinaryarchive.notion.site/</link>
+    <description>POrdy 1st LP – Unreleased archive. For non-commercial distribution only.</description>
+    <language>ko-kr</language>
+    <copyright>℗ 2024 POrdy</copyright>
+    <itunes:author>POrdy</itunes:author>
+    <itunes:summary>POrdy 1st LP – Unreleased archive. For non-commercial distribution only.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+         <itunes:name>POrdy</itunes:name>
+         <itunes:email>pordinary97@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Music" />
+    <itunes:image href="https://raw.githubusercontent.com/POrdinary-Archive/POrdinary-Archive/main/cover.jpg" />
+
+    <item>
+      <title>01. Hommage</title>
+      <link>https://pordinaryarchive.notion.site/</link>
+      <description>POrdinary Archive&#10;25 June 2024&#10;℗ 2024 POrdy&#10;&#10;Original Song The Beatles, Damien Rice, Mac Miller, Frank Ocean, Daniel Caesar&#10;Lyrics by POrdy&#10;Composed by POrdy&#10;Arranged by POrdy&#10;Chorus by POrdy&#10;Recorded by POrdy @Studio Ordinary&#10;Mixed by POrdy @Ordy Dorm 144C&#10;Mastered by POrdy @Studio Ordinary</description>
+      <itunes:author>POrdy</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1pbufmRM6RNjFh-h8CMGACt3uEL0OmS_2" length="68048900" type="audio/wav"/>
+      <guid isPermaLink="false">pordy-001</guid>
+      <pubDate>Tue, 25 Jun 2024 00:18:00 GMT</pubDate>
+    </item>
+
+<!--
+    <item>
+      <title>02. Film #1 - 淚 (애AE + For H)</title>
+      <link>https://pordinaryarchive.notion.site/</link>
+      <description>POrdinary Archive&#10;25 June 2024&#10;℗ 2024 POrdy&#10;&#10;Directed by POrdy&#10;Produced by POrdy&#10;Written by POrdy&#10;Animated by POrdy&#10;Cinematography GMDoT&#10;Edited by POrdy&#10;Colored by POrdy&#10;Narrated by POrdy&#10;Music by POrdy&#10;Some Sound Track from Epidemic Sound&#10;Chapter 3 Original Song Heo HoyKyung&#10;Recorded by POrdy @Studio Ordinary&#10;Mixed by POrdy @Ordy Dorm 144C&#10;Mastered by POrdy @Studio Ordinary</description>
+      <itunes:author>POrdy</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1s5uH1psACOEL1ydauuJlQwi5bqPWwBL8" length="1450343969" type="video/mp4"/>
+      <guid isPermaLink="false">pordy-002</guid>
+      <pubDate>Tue, 25 Jun 2024 00:18:00 GMT</pubDate>
+    </item>
+-->
+
+    <item>
+      <title>03. 애AE 10. 나↗EntropY=darkE (1st Edition Tape Only)</title>
+      <link>https://pordinaryarchive.notion.site/</link>
+      <description>POrdinary Archive&#10;25 June 2024&#10;℗ 2024 POrdy&#10;&#10;2nd Edition&#10;[Detailed Instruction]&#10;1. Stand in front of Nam June Paik - Hommage a John Cage, 1959 Reel Tape.&#10;2. Play the Joseph Beuys - I Like America and America Likes Me (Coyote), 1974.&#10;3. Watch for 4 minutes and 33 seconds.&#10;This is the 2ND VERSION.&#10;The 1ST VERSION will not be publicly available.</description>
+      <itunes:author>POrdy</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1g3_prgKYnDAzOqZ_HFaU5CU34eUPa26X" length="104832044" type="audio/wav"/>
+      <guid isPermaLink="false">pordy-003</guid>
+      <pubDate>Tue, 25 Jun 2024 00:18:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>04. For H 20. ML (Feat. LeeJiho)</title>
+      <link>https://pordinaryarchive.notion.site/</link>
+      <description>POrdinary Archive&#10;25 June 2024&#10;℗ 2024 POrdy&#10;&#10;Lyrics by POrdy, LeeJiho&#10;Composed by POrdy, LeeJiho&#10;Arranged by POrdy&#10;Chorus by POrdy&#10;Recorded by POrdy @Studio Ordinary&#10;Mixed by POrdy @Ordy Dorm 144C&#10;Mastered by POrdy @Studio Ordinary</description>
+      <itunes:author>POrdy</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-cXMVIY7EbW3_DJY0fHDHsJlDjLdJcJq" length="75776044" type="audio/wav"/>
+      <guid isPermaLink="false">pordy-004</guid>
+      <pubDate>Tue, 25 Jun 2024 00:18:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>05. Skit #1 - Daily Life</title>
+      <link>https://pordinaryarchive.notion.site/</link>
+      <description>POrdinary Archive&#10;25 June 2024&#10;℗ 2024 POrdy&#10;&#10;Lyrics by POrdy&#10;Composed by POrdy&#10;Arranged by POrdy&#10;Chorus by POrdy&#10;Recorded by POrdy @Studio Ordinary @NAM JUNE PAIK ART CENTER&#10;Mixed by POrdy @Ordy Dorm 144C&#10;Mastered by POrdy @Studio Ordinary</description>
+      <itunes:author>POrdy</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cseXeODkramvuYwFRO2V9wHbRjw4C77V" length="15660164" type="audio/wav"/>
+      <guid isPermaLink="false">pordy-005</guid>
+      <pubDate>Tue, 25 Jun 2024 00:18:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>06. Mon (Feat. NONE)</title>
+      <link>https://pordinaryarchive.notion.site/</link>
+      <description>POrdinary Archive&#10;25 June 2024&#10;℗ 2024 POrdy&#10;&#10;Lyrics by POrdy, NONE&#10;Composed by POrdy&#10;Arranged by POrdy&#10;Chorus by POrdy&#10;Recorded by POrdy @B.E.A.T Room @Studio Ordinary&#10;Mixed by POrdy @Ordy Dorm 144C&#10;Mastered by POrdy @Studio Ordinary</description>
+      <itunes:author>POrdy</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aXKuCznOc3h1OHH0ZuTlGGx4FSthToSm" length="81973940" type="audio/wav"/>
+      <guid isPermaLink="false">pordy-006</guid>
+      <pubDate>Tue, 25 Jun 2024 00:18:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>07. Tue (Feat. GMDoT, suyong)</title>
+      <link>https://pordinaryarchive.notion.site/</link>
+      <description>POrdinary Archive&#10;25 June 2024&#10;℗ 2024 POrdy&#10;&#10;Lyrics by POrdy, GMDoT, suyong&#10;Composed by POrdy&#10;Arranged by POrdy&#10;Chorus by POrdy&#10;Recorded by POrdy @B.E.A.T Room @Studio Ordinary&#10;Mixed by POrdy @Ordy Dorm 144C&#10;Mastered by POrdy @Studio Ordinary</description>
+      <itunes:author>POrdy</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sjFttqpEd57r9ITSjzMlbukbLijJy52J" length="95808044" type="audio/wav"/>
+      <guid isPermaLink="false">pordy-007</guid>
+      <pubDate>Tue, 25 Jun 2024 00:18:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>08. Wed (Slowed + Reverb)</title>
+      <link>https://pordinaryarchive.notion.site/</link>
+      <description>POrdinary Archive&#10;25 June 2024&#10;℗ 2024 POrdy&#10;&#10;Lyrics by POrdy&#10;Composed by POrdy&#10;Arranged by POrdy&#10;Chorus by POrdy&#10;Recorded by POrdy @B.E.A.T Room @Studio Ordinary&#10;Mixed by POrdy @Ordy Dorm 144C&#10;Mastered by POrdy @Studio Ordinary</description>
+      <itunes:author>POrdy</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1myramMaMxtl4VL6udOlmzm0eQXwLGfmN" length="91740676" type="audio/wav"/>
+      <guid isPermaLink="false">pordy-008</guid>
+      <pubDate>Tue, 25 Jun 2024 00:18:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>09. Thu</title>
+      <link>https://pordinaryarchive.notion.site/</link>
+      <description>POrdinary Archive&#10;25 June 2024&#10;℗ 2024 POrdy&#10;&#10;Lyrics by POrdy&#10;Composed by POrdy&#10;Arranged by POrdy&#10;Chorus by POrdy&#10;Recorded by POrdy @B.E.A.T Room @Studio Ordinary&#10;Mixed by POrdy @Ordy Dorm 144C&#10;Mastered by POrdy @Studio Ordinary</description>
+      <itunes:author>POrdy</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10GjJYX8OSEXdSjT3kRcxyqkX5bXTJJ0d" length="70128044" type="audio/wav"/>
+      <guid isPermaLink="false">pordy-009</guid>
+      <pubDate>Tue, 25 Jun 2024 00:18:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>10. Fri (OnePO Remix) (Feat. Sunho, ELBs)</title>
+      <link>https://pordinaryarchive.notion.site/</link>
+      <description>POrdinary Archive&#10;25 June 2024&#10;℗ 2024 POrdy&#10;&#10;Lyrics by POrdy, Sunho, ELBs&#10;Composed by POrdy, ELBs&#10;Remixed by OnePO&#10;Chorus by POrdy, ELBs&#10;Recorded by POrdy @B.E.A.T Room @Studio Ordinary @DAN Studio, ELBs @Studio 2n5&#10;Mixed by OnePO @OnePO Studio, POrdy @Ordy Dorm 144C&#10;Mastered by POrdy @Studio Ordinary</description>
+      <itunes:author>POrdy</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eqRDov3VH5Bp4SK4cRns8qowm0Lsvrai" length="86016044" type="audio/wav"/>
+      <guid isPermaLink="false">pordy-010</guid>
+      <pubDate>Tue, 25 Jun 2024 00:18:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>11. Sat (Feat. ChoiYongsik)</title>
+      <link>https://pordinaryarchive.notion.site/</link>
+      <description>POrdinary Archive&#10;25 June 2024&#10;℗ 2024 POrdy&#10;&#10;Lyrics by POrdy, Curvil&#10;Composed by POrdy, Curvil&#10;Arranged by POrdy&#10;Chorus by POrdy, ChoiYongsik&#10;Recorded by POrdy @B.E.A.T Room @Studio Ordinary&#10;Mixed by POrdy @Ordy Dorm 144C&#10;Mastered by POrdy @Studio Ordinary</description>
+      <itunes:author>POrdy</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1M3maLoEhSTElzgiL86ivy3kSVP-VJcdU" length="78946956" type="audio/wav"/>
+      <guid isPermaLink="false">pordy-011</guid>
+      <pubDate>Tue, 25 Jun 2024 00:18:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>12. Sun</title>
+      <link>https://pordinaryarchive.notion.site/</link>
+      <description>POrdinary Archive&#10;25 June 2024&#10;℗ 2024 POrdy&#10;&#10;Lyrics by POrdy&#10;Composed by POrdy&#10;Arranged by POrdy&#10;Chorus by POrdy&#10;Recorded by POrdy @B.E.A.T Room @Studio Ordinary&#10;Mixed by POrdy @Ordy Dorm 144C&#10;Mastered by POrdy @Studio Ordinary</description>
+      <itunes:author>POrdy</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=11P3Jr_0KtCSC2oztC04wH-4T1ss5oJNT" length="79872044" type="audio/wav"/>
+      <guid isPermaLink="false">pordy-012</guid>
+      <pubDate>Tue, 25 Jun 2024 00:18:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>13. Skit #2 - niagA</title>
+      <link>https://pordinaryarchive.notion.site/</link>
+      <description>POrdinary Archive&#10;25 June 2024&#10;℗ 2024 POrdy&#10;&#10;Lyrics by POrdy&#10;Composed by POrdy&#10;Arranged by POrdy&#10;Chorus by POrdy&#10;Recorded by POrdy @Studio Ordinary @NAM JUNE PAIK ART CENTER&#10;Mixed by POrdy @Ordy Dorm 144C&#10;Mastered by POrdy @Studio Ordinary</description>
+      <itunes:author>POrdy</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1V-HIZBnPuJxYeucllbtZsFXSgeZWiZX2" length="5952044" type="audio/wav"/>
+      <guid isPermaLink="false">pordy-013</guid>
+      <pubDate>Tue, 25 Jun 2024 00:18:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>14. Swimming</title>
+      <link>https://pordinaryarchive.notion.site/</link>
+      <description>POrdinary Archive&#10;25 June 2024&#10;℗ 2024 POrdy&#10;&#10;Lyrics by POrdy&#10;Composed by POrdy&#10;Arranged by POrdy&#10;Chorus by POrdy&#10;Recorded by POrdy @Studio Ordinary&#10;Mixed by POrdy @Ordy Dorm 144C&#10;Mastered by POrdy @Studio Ordinary</description>
+      <itunes:author>POrdy</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1R8Ow4fFnBDPmOPi-oCVVMKwOUBc1-v3f" length="66522564" type="audio/wav"/>
+      <guid isPermaLink="false">pordy-014</guid>
+      <pubDate>Tue, 25 Jun 2024 00:18:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>15. Film #2 - in (unreleased)</title>
+      <link>https://pordinaryarchive.notion.site/</link>
+      <description>POrdinary Archive&#10;25 June 2024&#10;℗ 2024 POrdy&#10;&#10;This is the RELEASED VERSION.&#10;The UNRELEASED VERSION will be released when there is a need for it.</description>
+      <itunes:author>POrdy</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mADGH3uy9O1sWztEDI7jz7kyxEXRcneM" length="83078444" type="audio/wav"/>
+      <guid isPermaLink="false">pordy-015</guid>
+      <pubDate>Tue, 25 Jun 2024 00:18:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>16. Circles (Feat. Curvil)</title>
+      <link>https://pordinaryarchive.notion.site/</link>
+      <description>POrdinary Archive&#10;25 June 2024&#10;℗ 2024 POrdy&#10;&#10;Lyrics by POrdy, Curvil&#10;Composed by POrdy&#10;Arranged by POrdy&#10;Chorus by POrdy&#10;Recorded by POrdy @Studio Ordinary&#10;Mixed by POrdy @Ordy Dorm 144C&#10;Mastered by POrdy @Studio Ordinary</description>
+      <itunes:author>POrdy</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1srBwuk9qmkfYDNxBA5xXIMlFPD368Fu-" length="121488044" type="audio/wav"/>
+      <guid isPermaLink="false">pordy-016</guid>
+      <pubDate>Tue, 25 Jun 2024 00:18:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>17. Skit #3 - Again</title>
+      <link>https://pordinaryarchive.notion.site/</link>
+      <description>POrdinary Archive&#10;25 June 2024&#10;℗ 2024 POrdy&#10;&#10;Lyrics by POrdy&#10;Composed by POrdy&#10;Arranged by POrdy&#10;Chorus by POrdy&#10;Recorded by POrdy @Ordy Dorm 144C @NAM JUNE PAIK ART CENTER&#10;Mixed by POrdy @Ordy Dorm 144C&#10;Mastered by POrdy @Studio Ordinary</description>
+      <itunes:author>POrdy</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1b4QX2fUamoV7oDI3LeZvjY-wkODHxgtJ" length="40560044" type="audio/wav"/>
+      <guid isPermaLink="false">pordy-017</guid>
+      <pubDate>Tue, 25 Jun 2024 00:18:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>18. Film #3 - Weekly Life</title>
+      <link>https://pordinaryarchive.notion.site/</link>
+      <description>POrdinary Archive&#10;25 June 2024&#10;℗ 2024 POrdy&#10;&#10;Lyrics by POrdy, ELBs, ByeonMingyu&#10;Composed by POrdy, ELBs, ByeonMingyu, GongHyeonjung&#10;Arranged by POrdy, ELBs, ByeonMingyu, OnePO&#10;Chorus by POrdy, ELBs, ByeonMingyu&#10;Recorded by POrdy @Music Letter&#10;Mixed by POrdy, OnePO @Ordy Dorm 144C&#10;Mastered by POrdy @Studio Ordinary</description>
+      <itunes:author>POrdy</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IR4QRlI3wW674r-LibCRlw8A7v6LVROQ" length="104064044" type="audio/wav"/>
+      <guid isPermaLink="false">pordy-018</guid>
+      <pubDate>Tue, 25 Jun 2024 00:18:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>19. Skit #4 - Call</title>
+      <link>https://pordinaryarchive.notion.site/</link>
+      <description>POrdinary Archive&#10;25 June 2024&#10;℗ 2024 POrdy&#10;&#10;Lyrics by POrdy&#10;Composed by POrdy&#10;Arranged by POrdy&#10;Chorus by POrdy&#10;Recorded by POrdy @Ordy Dorm 144C @NAM JUNE PAIK ART CENTER&#10;Mixed by POrdy @Ordy Dorm 144C&#10;Mastered by POrdy @Studio Ordinary</description>
+      <itunes:author>POrdy</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Pl5s86TakQAtW-VywQQlBw7HxeEZ5rZg" length="16704044" type="audio/wav"/>
+      <guid isPermaLink="false">pordy-019</guid>
+      <pubDate>Tue, 25 Jun 2024 00:18:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>20. (Bonus Track) Josée</title>
+      <link>https://pordinaryarchive.notion.site/</link>
+      <description>POrdinary Archive&#10;25 June 2024&#10;℗ 2024 POrdy&#10;&#10;Lyrics by POrdy&#10;Composed by J Grooves, POrdy&#10;Arranged by J Grooves, POrdy&#10;Chorus by POrdy, ChoiYongsik&#10;Recorded by POrdy @Studio Ordinary&#10;Mixed by POrdy @Ordy Dorm 144C&#10;Mastered by POrdy @Studio Ordinary</description>
+      <itunes:author>POrdy</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vpYuRRCPXusBHcnJN2lpXynSQH1BNKKM" length="98273004" type="audio/wav"/>
+      <guid isPermaLink="false">pordy-020</guid>
+      <pubDate>Tue, 25 Jun 2024 00:18:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
