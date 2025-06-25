@@ -15,7 +15,9 @@
          <itunes:name>POrdy</itunes:name>
          <itunes:email>pordinary97@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:category text="Music" />
+    <itunes:category text="Music">
+       <itunes:category text="Music Commentary"/>
+    </itunes:category>
     <itunes:image href="https://raw.githubusercontent.com/POrdinary-Archive/POrdinary-Archive/main/cover.jpg" />
 
     <item>
